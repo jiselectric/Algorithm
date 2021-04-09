@@ -6,7 +6,7 @@ practicing Algorithmic skills
 - [BaekJoon](https://www.acmicpc.net/)
 - [Programmers](https://programmers.co.kr/learn/challenges)
 
-### LeetCode
+### 📍LeetCode
 
 #### Dynamic Programming
 - [62. Unique Paths](https://leetcode.com/problems/unique-paths/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Dynamic%20Programming/62.%20Unique%20Paths.ipynb)
@@ -15,16 +15,16 @@ practicing Algorithmic skills
 #### Heap
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Heap/242.%20Valid%20Anagram.ipynb)
 
-### BaekJoon
+### 📍BaekJoon
 
 #### Dynamic Programming
-- [1937 : Greedy Panda](https://www.acmicpc.net/problem/1937)
+- [1937 : Greedy Panda](https://www.acmicpc.net/problem/1937) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/Baekjoon/Dynamic%20Programming/greedyPanda.cpp)
 
 
-### Programmers
+### 📍Programmers
 
 #### Hash
-- [Phone Book](https://programmers.co.kr/learn/courses/30/lessons/42577)
+- [Phone Book](https://programmers.co.kr/learn/courses/30/lessons/42577) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/Programmers/Hash/Phonebook.ipynb)
 
 #### Stack / Queue
-- [Truck Crossing Bridge](https://programmers.co.kr/learn/courses/30/lessons/42583)
+- [Truck Crossing Bridge](https://programmers.co.kr/learn/courses/30/lessons/42583) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/Programmers/Stack:Queue/truckCrossingBridge.ipynb)
