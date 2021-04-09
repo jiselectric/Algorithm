@@ -27,4 +27,4 @@ practicing Algorithmic skills
 - [Phone Book](https://programmers.co.kr/learn/courses/30/lessons/42577) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/Programmers/Hash/Phonebook.ipynb)
 
 #### Stack / Queue
-- [Truck Crossing Bridge](https://programmers.co.kr/learn/courses/30/lessons/42583) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/Programmers/Stack:Queue/truckCrossingBridge.ipynb)
+- [Truck Crossing Bridge](https://programmers.co.kr/learn/courses/30/lessons/42583) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/Programmers/Stack%20:%20Queue/truckCrossingBridge.ipynb)
