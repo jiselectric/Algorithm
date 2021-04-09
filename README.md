@@ -12,7 +12,7 @@ practicing Algorithmic skills
 - [62. Unique Paths](https://leetcode.com/problems/unique-paths/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Dynamic%20Programming/62.%20Unique%20Paths.ipynb)
 - [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Dynamic%20Programming/63.%20Unique%20Paths%20II.ipynb)
 
-### Two Pointers 
+#### Two Pointers 
 - [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Two%20Pointers/42.%20Trapping%20Rain%20Water.ipynb)
 
 #### Heap
