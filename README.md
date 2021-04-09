@@ -4,6 +4,7 @@ practicing Algorithmic skills
 ## Websites
 - [LeetCode](https://leetcode.com/)
 - [BaekJoon](https://www.acmicpc.net/)
+- [Programmers](https://programmers.co.kr/learn/challenges)
 
 ### LeetCode
 
@@ -13,3 +14,17 @@ practicing Algorithmic skills
 
 #### Heap
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Heap/242.%20Valid%20Anagram.ipynb)
+
+### BaekJoon
+
+#### Dynamic Programming
+- [1937 : Greedy Panda](https://www.acmicpc.net/problem/1937)
+
+
+### Programmers
+
+#### Hash
+- [Phone Book](https://programmers.co.kr/learn/courses/30/lessons/42577)
+
+#### Stack / Queue
+- [Truck Crossing Bridge](https://programmers.co.kr/learn/courses/30/lessons/42583)
