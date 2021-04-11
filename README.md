@@ -24,6 +24,10 @@ practicing Algorithmic skills
 #### Dynamic Programming
 - [1937 : Greedy Panda](https://www.acmicpc.net/problem/1937) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/Baekjoon/Dynamic%20Programming/greedyPanda.cpp)
 
+#### Two Pointers
+- [2003 : Sum of Numbers 2](https://www.acmicpc.net/problem/2003)
+
+<hr/>
 
 ### 📍Programmers
 
