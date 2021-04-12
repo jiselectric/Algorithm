@@ -31,6 +31,9 @@ practicing Algorithmic skills
 #### Two Pointers
 - [2003 : Sum of Numbers 2](https://www.acmicpc.net/problem/2003) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/Baekjoon/Two%20Pointers/SumOfNums2.cpp)
 
+#### Math
+- [6588 : Goldbach's Conjecture](https://www.acmicpc.net/problem/6588)
+
 <hr/>
 
 ### 📍Programmers
