@@ -25,6 +25,7 @@ practicing Algorithmic skills
 #### BFS / DFS
 - [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/130.%20Surrounded%20Regions.ipynb)
 - [220. Number of Islands](https://leetcode.com/problems/number-of-islands/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/200.%20Number%20of%20Islands.ipynb)
+- [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/994.%20Rotting%20Oranges.ipynb)
 
 <hr/>
 
