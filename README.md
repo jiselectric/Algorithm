@@ -23,7 +23,8 @@ practicing Algorithmic skills
 
 
 #### BFS / DFS
-- [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) : [Solution]
+- [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/130.%20Surrounded%20Regions.ipynb)
+
 <hr/>
 
 ### 📍BaekJoon
