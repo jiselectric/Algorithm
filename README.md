@@ -23,10 +23,14 @@ practicing Algorithmic skills
 
 
 #### BFS / DFS
+- [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/110.%20Balanced%20Binary%20Tree.ipynb)
 - [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/130.%20Surrounded%20Regions.ipynb)
 - [220. Number of Islands](https://leetcode.com/problems/number-of-islands/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/200.%20Number%20of%20Islands.ipynb)
+- [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/938.%20Range%20Sum%20of%20BST.ipynb)
 - [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/994.%20Rotting%20Oranges.ipynb)
 
+#### Greedy
+- [57. Insert Interval](https://leetcode.com/problems/insert-interval/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Greedy/57.%20Insert%20Interval.ipynb)
 <hr/>
 
 ### 📍BaekJoon
