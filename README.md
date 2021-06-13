@@ -20,6 +20,7 @@ practicing Algorithmic skills
 
 #### Heap
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Heap/242.%20Valid%20Anagram.ipynb)
+- [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Heap/299.%20Bulls%20and%20Cows.ipynb)
 
 
 #### BFS / DFS
