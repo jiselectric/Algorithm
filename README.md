@@ -19,6 +19,7 @@ practicing Algorithmic skills
 - [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Two%20Pointers/42.%20Trapping%20Rain%20Water.ipynb)
 
 #### Heap
+- [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Heap/3.%20Longest%20Substring%20Without%20Repeating%20Characters.ipynb)
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Heap/242.%20Valid%20Anagram.ipynb)
 - [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Heap/299.%20Bulls%20and%20Cows.ipynb)
 
