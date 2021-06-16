@@ -27,7 +27,7 @@ practicing Algorithmic skills
 
 #### BFS / DFS
 - [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.ipynb)
--[22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) : [Solution]()
+-[22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/22.%20Generate%20Parentheses.ipynb)
 - [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/110.%20Balanced%20Binary%20Tree.ipynb)
 - [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/130.%20Surrounded%20Regions.ipynb)
 - [220. Number of Islands](https://leetcode.com/problems/number-of-islands/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/200.%20Number%20of%20Islands.ipynb)
