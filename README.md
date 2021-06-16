@@ -17,6 +17,7 @@ practicing Algorithmic skills
 
 #### Two Pointers 
 - [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Two%20Pointers/42.%20Trapping%20Rain%20Water.ipynb)
+- [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Two%20Pointers/849.%20Maximize%20Distance%20to%20Closest%20Person.ipynb)
 
 #### Heap
 - [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Heap/3.%20Longest%20Substring%20Without%20Repeating%20Characters.ipynb)
@@ -25,6 +26,7 @@ practicing Algorithmic skills
 
 
 #### BFS / DFS
+- [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.ipynb)
 - [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/110.%20Balanced%20Binary%20Tree.ipynb)
 - [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/130.%20Surrounded%20Regions.ipynb)
 - [220. Number of Islands](https://leetcode.com/problems/number-of-islands/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/200.%20Number%20of%20Islands.ipynb)
