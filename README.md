@@ -33,10 +33,13 @@ practicing Algorithmic skills
 - [220. Number of Islands](https://leetcode.com/problems/number-of-islands/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/200.%20Number%20of%20Islands.ipynb)
 - [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/938.%20Range%20Sum%20of%20BST.ipynb)
 - [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/994.%20Rotting%20Oranges.ipynb)
-
+- [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/1306.%20Jump%20Game%20III.ipynb)
 #### Greedy
 - [57. Insert Interval](https://leetcode.com/problems/insert-interval/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Greedy/57.%20Insert%20Interval.ipynb)
 <hr/>
+
+#### Array
+- [1051. Height Checker](https://leetcode.com/problems/height-checker/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Array/1051.%20Height%20Checker.ipynb)
 
 ### 📍BaekJoon
 
