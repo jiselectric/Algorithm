@@ -18,6 +18,7 @@ practicing Algorithmic skills
 #### Two Pointers 
 - [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Two%20Pointers/42.%20Trapping%20Rain%20Water.ipynb)
 - [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Two%20Pointers/849.%20Maximize%20Distance%20to%20Closest%20Person.ipynb)
+- [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Two%20Pointers/925.%20Long%20Pressed%20Name.ipynb)
 
 #### Heap
 - [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Heap/3.%20Longest%20Substring%20Without%20Repeating%20Characters.ipynb)
