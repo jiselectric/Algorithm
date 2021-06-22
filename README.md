@@ -29,9 +29,12 @@ practicing Algorithmic skills
 #### BFS / DFS
 - [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.ipynb)
 - [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/22.%20Generate%20Parentheses.ipynb)
+- [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/98.%20Validate%20Binary%20Search%20Tree.ipynb)
 - [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/110.%20Balanced%20Binary%20Tree.ipynb)
 - [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/130.%20Surrounded%20Regions.ipynb)
+- [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/144.%20Binary%20Tree%20Preorder%20Traversal.ipynb)
 - [220. Number of Islands](https://leetcode.com/problems/number-of-islands/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/200.%20Number%20of%20Islands.ipynb)
+- [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/429.%20N-ary%20Tree%20Level%20Order%20Traversal.ipynb)
 - [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/938.%20Range%20Sum%20of%20BST.ipynb)
 - [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/994.%20Rotting%20Oranges.ipynb)
 - [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/BFS:DFS/1306.%20Jump%20Game%20III.ipynb)
