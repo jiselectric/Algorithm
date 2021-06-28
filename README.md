@@ -17,6 +17,7 @@ practicing Algorithmic skills
 
 #### Two Pointers 
 - [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Two%20Pointers/42.%20Trapping%20Rain%20Water.ipynb)
+- [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Two%20Pointers/287.%20Find%20the%20Duplicate%20Number.ipynb)
 - [849. Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Two%20Pointers/849.%20Maximize%20Distance%20to%20Closest%20Person.ipynb)
 - [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Two%20Pointers/925.%20Long%20Pressed%20Name.ipynb)
 
