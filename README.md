@@ -46,6 +46,9 @@ practicing Algorithmic skills
 #### Array
 - [1051. Height Checker](https://leetcode.com/problems/height-checker/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Array/1051.%20Height%20Checker.ipynb)
 
+#### Stack
+- [394. Decode String](https://leetcode.com/problems/decode-string/) : [Solution]()
+
 ### 📍BaekJoon
 
 #### Dynamic Programming
