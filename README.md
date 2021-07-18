@@ -46,6 +46,10 @@ practicing Algorithmic skills
 
 ### Binary Search 
 - [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Binary%20Search/162.%20Find%20Peak%20Element.ipynb)
+
+### Hash Table 
+- [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Hash/49.%20Group%20Anagrams.ipynb)
+
 #### Array
 - [1051. Height Checker](https://leetcode.com/problems/height-checker/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Array/1051.%20Height%20Checker.ipynb)
 
