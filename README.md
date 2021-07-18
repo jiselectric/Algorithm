@@ -51,6 +51,7 @@ practicing Algorithmic skills
 - [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Hash/49.%20Group%20Anagrams.ipynb)
 
 #### Array
+- [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) : [Solution]()
 - [1051. Height Checker](https://leetcode.com/problems/height-checker/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Array/1051.%20Height%20Checker.ipynb)
 
 #### Stack
