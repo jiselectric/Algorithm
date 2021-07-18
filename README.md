@@ -44,6 +44,8 @@ practicing Algorithmic skills
 - [57. Insert Interval](https://leetcode.com/problems/insert-interval/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Greedy/57.%20Insert%20Interval.ipynb)
 <hr/>
 
+### Binary Search 
+- [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Binary%20Search/162.%20Find%20Peak%20Element.ipynb)
 #### Array
 - [1051. Height Checker](https://leetcode.com/problems/height-checker/) : [Solution](https://github.com/jiselectric/Algorithm/blob/main/LeetCode/Array/1051.%20Height%20Checker.ipynb)
 
